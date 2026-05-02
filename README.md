@@ -2,7 +2,7 @@
 
 **Team**: Team Vera-Better
 **Stack**: FastAPI + Gemini 2.5 Flash (OpenAI-compatible endpoint)
-**Endpoint**: `https://<your-public-url>/v1/*`
+**Endpoint**: `https://vera-better.onrender.com/v1/*`
 
 ---
 
