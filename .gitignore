@@ -7,3 +7,4 @@ venv/
 results/
 submission.jsonl
 .DS_Store
+judge_simulator.py
